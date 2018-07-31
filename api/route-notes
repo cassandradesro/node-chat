@@ -1,0 +1,18 @@
+/*
+
+Create  - POST/message
+Read    - GET/message
+Read    - GET/message/1
+Update  - PATCH/message/1
+Delete  - DELETE/message/1s
+
+*/
+
+Getting Started
+
+Drag folder to terminal
+Npm init
+Npm install express —save
+Npm install body-parser —save
+Npm install cors —save
+Npm install colors —save
